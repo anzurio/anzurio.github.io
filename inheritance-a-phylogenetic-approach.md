@@ -107,4 +107,4 @@ But now, bats fly and so do birds but as we all know, bats are not birds. Is our
     }
 ```
 
-That same `Flies` interface may be re-used in all hierarchical sub-trees which contain a flying species and, in the same manner, provide a common implementation if applicable for all subtrees that would perform the action in a similar manner.
+That same `Flies` interface may be re-used in all hierarchical sub-trees which contain a flying species and, in the same manner, provide a common implementation—if applicable—for all subtrees that would perform the action in a similar way.
