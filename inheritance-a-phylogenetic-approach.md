@@ -69,7 +69,7 @@ As we traverse the tree, we found this strict description/classification happeni
     }
 ```
 
-Perhaps, the reader will notice that all these classes are `abstract`, that is, they cannot be directly instantiated and there is a good reasoning behind this: there is no such thing as pure animal; an animal must belong to its respective phyla, class, et al. Let’s jump to the species level and take a closer look at a random one: Leptonycteris nivalis. If we were to have one pet of this species of bat, we would most likely name it. In the same manner, an instance of a class is named and, from here, it can be inferred that, a species kind of class must be able to be instantiated.        
+Perhaps, the reader will notice that all these classes are `abstract`, that is, they cannot be directly instantiated and there is a good reasoning behind this: there is no such thing as pure animal; an animal must belong to its respective phyla, class, et al. Let’s jump to the species level and take a closer look at a random one: *Leptonycteris nivalis*. If we were to have one pet of this species of bat, we would most likely name it. In the same manner, an instance of a class is named and, from here, it can be inferred that, a species kind of class must be able to be instantiated.        
 
 ```csharp
     // ...
