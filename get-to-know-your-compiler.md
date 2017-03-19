@@ -91,3 +91,7 @@ Without knowing too much about neither the language nor the compiler, one would 
 </td>
 </tr>
 </table>
+
+Even with no experience in Assembly, one can notice that the code generated is similar in length and form and, most importantly, the portion that gets looped over is too. One might wonder why the mov instructions on line 14 differ greatly on their operands and that not every CISC instruction executes at a constant rate but, suffice to say, this does not impact the speed of execution in this example’s end product; the way assemblers generate machine code is outside of this post’s scope.
+
+At a glance, these examples, may seem trivial but do help make the point of encouraging the reader to take a closer look at what their compiler of choice does behind the scenes thus, allowing the engineer to focus most of their effort on making their code more readable.
