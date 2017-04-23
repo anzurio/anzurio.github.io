@@ -1,6 +1,6 @@
 ## In-code Comments
 
-I have always striven to make my code maintanable by means of making its logical path obvious. I achieve this in big part by giving meaningful names to identifiers and making functions perform one thing only. Given this, I have always thought of in-code comments unnecessary: if my code is readable, understandable, and obvious, wouldn't comments just be redundant?. This not to be confused with public interface documentation which, more often than not, comes in the form of large comment blocks preceding the definition of the unit to be documented. 
+I have always striven to make my code maintanable by means of making its logical path obvious. I achieve this in big part by giving meaningful names to identifiers and making functions perform one thing only. Given this, I have always thought of in-code comments as unnecessary: if my code is readable, understandable, and obvious, wouldn't comments just be redundant?. This not to be confused with public interface documentation which, more often than not, comes in the form of large comment blocks preceding the definition of the unit to be documented. 
 
 In the earliest programming courses of college, it was usual for my professors to tell me that my program needed documentation even though I had provided that in the form of API documentation; what they were *really* wanting is for my code to have a few comments within its logical implementation as such, I ended up with needless text such as:
 
