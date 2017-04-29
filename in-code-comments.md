@@ -25,7 +25,7 @@ If it were not for that comment I would probably had moved the repository.Update
 
 On the other hand, a good company-wide culture of the use of small incremental changes towards source control (in `git` lingo: commits) with precise descriptions could also be a great replacement for this sort of in-code comments. In the scenario above, I could have looked at the code and known that, such a odd-feeling choice of statement ordering might have a reason of being and that reason could be found in the file’s change history.
 
-And now that we are on the business of killing two birds with one stone, I saw one practice which I thought was pretty clever: step-trace stamentents with no impact on production builds. For this to be
+And now that we are on the business of killing two birds with one stone, I would not really frown upon step-trace comment-like statements with no performance impact on production binaries.
 
 It might be pointed out that sometimes we rely on a third party whose source is not available for us to modify and its behaviour is not what we would usually expect. In this scenario, while true that a comment might be required to alert others that there is something unconventional about that function, it is also reasonable–and I would actually recommend–to wrap it around a function of our own in which we document the odd behaviour of the external function.
 
