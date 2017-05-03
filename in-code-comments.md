@@ -25,7 +25,28 @@ If it were not for that comment I would probably had moved the repository.Update
 
 On the other hand, a good company-wide culture of the use of small incremental changes towards source control (in `git` lingo: commits) with precise descriptions could also be a great replacement for this sort of in-code comments. In the scenario above, I could have looked at the code and known that, such an odd-feeling choice of statement ordering might have a reason of being and that reason could be found in the file’s change history.
 
-It might be pointed out that sometimes we rely on a third party whose source is not available for us to modify and its behaviour is not what we would usually expect. In this scenario, while true that a comment might be required to alert others that there is something unconventional about that function, it is also reasonable–and I would actually recommend–to wrap it around a function of our own in which we document the odd behaviour of the external function.
+It might be pointed out that sometimes we rely on a third party whose source is not available for us to modify and its behaviour is not what we would usually expect. In this scenario, while true that a comment might be required to alert others that there is something unconventional about that function, it is also reasonable–and I would actually recommend–to wrap it around a function of our own in which we document the odd behaviour of the external function. For instance, let us imagine we are consuming a C# third party Complex Number definition which contains a `TryParse` method, however, this method's signature is different from the .NET framework `bool <numeric type>.TryParse(string s, out <numeric type> result)` in that, instead of `result` being an `out` parameter, it is a `ref` parameter. We would then perhaps wrap it as:
+
+```c#
+        /// <summary>
+        /// Attempts to parse a text to a <see cref="Complex"/> number. 
+        /// </summary>
+        /// <remarks>
+        /// <para>
+        /// The provided <see cref="Complex.TryParse(string, ref Complex)"/> method requires the result
+        /// to have been created which differs from the norm.
+        /// </para>
+        /// </remarks>
+        /// <param name="s">The text to parse into complex.</param>
+        /// <param name="result">The parsed valued if the parsing was successful.</param>
+        /// <returns><c>True</c> if the parsing was successful.</returns>
+        internal static bool TryParseComplex(string s, out Complex result)
+        {
+            result = new Complex();
+
+            return Complex.TryParse(s, ref result);
+        }
+```
 
 Although I don't want to make a case for what is "obvious" code, I would also encourage not to add comments explaining syntax or language features no matter how obscure or complicated these are. For instance:
 
