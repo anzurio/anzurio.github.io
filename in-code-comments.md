@@ -1,6 +1,6 @@
-> Originally written for Propelics and currently [posted](https://www.anexinet.com/blog/in-code-comments/) at Anexinet's Blog.
+## In-code Comments [^1]
 
-## In-code Comments
+[^1]: Originally written for Propelics and currently [posted](https://www.anexinet.com/blog/in-code-comments/) at Anexinet's Blog.
 
 I have always striven to make my code maintainable by means of making its logical path obvious. I achieve this in big part by giving meaningful names to identifiers and making functions perform one thing only. Given this, I have always thought of in-code comments as unnecessary: if my code is readable, understandable, and obvious, wouldn't comments just be redundant?. This is not to be confused with public interface documentation which, more often than not, comes in the form of large comment blocks preceding the definition of the unit to be documented.
 
