@@ -1,6 +1,9 @@
-## Inheritance: A Phylogenetic Approach [^1]
+---
+layout: post
+title: Inheritance: A Phylogenetic Approach [^1]
+---
 
-[^1]: Originally written for Propelics and currently [posted](https://www.anexinet.com/blog/inheritance-a-phylogenetic-approach/) at Anexinet's Blog.
+[^1]: Originally written for Propelics and currently [published](https://www.anexinet.com/blog/inheritance-a-phylogenetic-approach/) at Anexinet's Blog.
 
 The rise of modern high-level object oriented programming languages (e.g., Java, C#, Swift) brought with it the enforcement of single-parent hierarchy and, from my point of view, that was the right path.
 
