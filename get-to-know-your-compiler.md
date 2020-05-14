@@ -1,3 +1,5 @@
+> Originally written for Propelics and currently [posted](https://www.anexinet.com/blog/talking-code-get-to-know-your-compiler/) at Anexinet's Blog.
+
 ## Get to Know Your Compiler
 
 Given a non-trivial task with many solution paths, a sensible Computer Scientist, would accomplish it through the path which offers the best time and space complexity balance. A seasoned Software Engineer would also understand that, getting the task done, is but half of the job; the resulting code must also be maintainable. One way to accomplish this is by making the source readable by others and it is thanks to the work of the former that the latter can spend most of its time designing a readable framework to perform a task without having to worry—at least too much—about macro-optimizing their programs.
@@ -95,3 +97,4 @@ Without knowing too much about neither the language nor the compiler, one would 
 Even with no experience in Assembly, one can notice that the code generated is similar in length and form and, most importantly, the portion that gets looped over is too. One might wonder why the mov instructions on line 14 differ greatly on their operands and that not every CISC instruction executes at a constant rate but, suffice to say, this does not impact the speed of execution in this example’s end product; the way assemblers generate machine code is outside of this post’s scope.
 
 At a glance, these examples, may seem trivial but do help make the point of encouraging the reader to take a closer look at what their compiler of choice does behind the scenes thus, allowing the engineer to focus most of their effort on making their code more readable.
+
