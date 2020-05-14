@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Get to Know Your Compiler [^1]
+title: Get to Know Your Compiler
 ---
 
 [^1]: Originally written for Propelics and currently [published](https://www.anexinet.com/blog/talking-code-get-to-know-your-compiler/) at Anexinet's Blog.
 
-Given a non-trivial task with many solution paths, a sensible Computer Scientist, would accomplish it through the path which offers the best time and space complexity balance. A seasoned Software Engineer would also understand that, getting the task done, is but half of the job; the resulting code must also be maintainable. One way to accomplish this is by making the source readable by others and it is thanks to the work of the former that the latter can spend most of its time designing a readable framework to perform a task without having to worry—at least too much—about macro-optimizing their programs.
+[^1] Given a non-trivial task with many solution paths, a sensible Computer Scientist, would accomplish it through the path which offers the best time and space complexity balance. A seasoned Software Engineer would also understand that, getting the task done, is but half of the job; the resulting code must also be maintainable. One way to accomplish this is by making the source readable by others and it is thanks to the work of the former that the latter can spend most of its time designing a readable framework to perform a task without having to worry—at least too much—about macro-optimizing their programs.
 
 I am talking about how the compiler provides a full range of optimization that most of us are not even aware of. Just like the introduction of context-free  language to machine code compilers made early computer programming more human-understandable, so do modern compilers today by optimizing the generated machine code to be more efficient without needing the programmer to device obfuscated code to improve performance. 
 

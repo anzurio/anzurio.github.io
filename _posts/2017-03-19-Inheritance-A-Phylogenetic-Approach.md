@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Inheritance: A Phylogenetic Approach [^1]
+title: Inheritance: A Phylogenetic Approach
 ---
 
 [^1]: Originally written for Propelics and currently [published](https://www.anexinet.com/blog/inheritance-a-phylogenetic-approach/) at Anexinet's Blog.
 
-The rise of modern high-level object oriented programming languages (e.g., Java, C#, Swift) brought with it the enforcement of single-parent hierarchy and, from my point of view, that was the right path.
+[^1] The rise of modern high-level object oriented programming languages (e.g., Java, C#, Swift) brought with it the enforcement of single-parent hierarchy and, from my point of view, that was the right path.
 
 A class defines properties and attributes that individuals have in common, i.e., serves to **class**ify such individuals to belong to certain kind. In terms of software architecture, one could make the argument—against single-parent inheritance—that a complex object might have the need to be able to fit the classification of two kinds and thus, perform tasks from both classes. For the sake of argument, let’s set aside for a moment the possibly unmaintainable implications of such approach and focus on the exact argument because, in a single-parent hierarchy, it is still possible for an object to fit the classification of two or more kinds: their direct parent and their parent’s, and their parent’s, and so forth. It is a matter of a good ground-up hierarchy design to be able to discern which methods are required to have a base implementation (from an abstract class), and which ones only require to have its capabilities as a group publicly known (from their interface definition).
 
