@@ -15,14 +15,14 @@ I have always striven to make my code maintainable by means of making its logica
 In the earliest programming courses of college, it was usual for my professors to tell me that my program needed documentation even though I had provided that in the form of API documentation; what they were really wanting is for my code to have a few comments within its logical implementation as such, I ended up with needless text such as:
 
 
-```java
+```csharp
     // Initialize the matrix.
     int[][] matrix = new int[rows][columns];
 ```
 
 From my perspective, in-code comments should only be used when the code is not obvious but then again, if it is not obvious, probably one should re-think the implementation. The following code resembles something I recently encountered that would have baffled me:
 
-```c#
+```csharp
    if (Compare(currentSubject, updatedSubject) != 0)
    {
        Merge(currentSubject, updatedSubject);    
@@ -37,7 +37,7 @@ On the other hand, a good company-wide culture of the use of small incremental c
 
 It might be pointed out that sometimes we rely on a third party whose source is not available for us to modify and its behaviour is not what we would usually expect. In this scenario, while true that a comment might be required to alert others that there is something unconventional about that function, it is also reasonable–and I would actually recommend–to wrap it around a function of our own in which we document the odd behaviour of the external function. For instance, let us imagine we are consuming a C# third party Complex Number definition which contains a `TryParse` method, however, this method's signature is different from the .NET framework `bool <numeric type>.TryParse(string s, out <numeric type> result)` in that, instead of `result` being an `out` parameter, it is a `ref` parameter. We would then perhaps wrap it as:
 
-```c#
+```csharp
 /// <summary>
 /// Attempts to parse a text to a <see cref="Complex"/> number. 
 /// </summary>
@@ -59,7 +59,7 @@ internal static bool TryParseComplex(string s, out Complex result)
 
 Although I don't want to make a case for what is "obvious" code, I would also encourage not to add comments explaining syntax or language features no matter how obscure or complicated these are. For instance:
 
-```c++
+```cpp
 /* "identifier" is a constant pointer (cannot point to a different location) 
  * to a constant int (its value cannot be modified).
  */
