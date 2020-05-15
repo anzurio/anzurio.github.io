@@ -19,7 +19,7 @@ For instance, take a task to be accomplished programmatically where the size of 
 Another example of when it is wise to mind the compiler comes as to the debate of whether to pre-fetch the size of a collection when looping through it. Compare the following snippets of code:
 
 <p>
-<table>
+<table class="my-table">
     <colgroup>
         <col width="50%" />
         <col width="50%" />
@@ -48,7 +48,7 @@ for (int i = 0; i < args.Length; i++)
 Without knowing too much about neither the language nor the compiler, one would assume that, the one on the left might generate more efficient code. After all, it seems that the other snippet will evaluate args.Length every iteration. In C#, it is not so; take a look at the optimized code emitted after the Just In Time Compiler has had it pass at it (I have omitted interrupt instructions which allowed me to see the code after JIT):
 
 <p>
-<table>
+<table class="my-table">
     <colgroup>
         <col width="50%" />
         <col width="50%" />
