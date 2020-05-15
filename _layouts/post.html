@@ -3,10 +3,25 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.title }}
+    {%if page.original %}
+    <sup id="originalPostRef">
+      <a href="#originalFootnoteRef" class="footnote">*</a>
+    </sup>
+    {% endif %}
+  </h1>
 
   <div class="entry">
     {{ content }}
+    {%if page.original.url %}
+    <div id="originalFootnoteRef" class="footnotes">
+      <p>
+        * Originally written for {{ page.original.for }} and currently
+        <a href="{{ page.original.url }}">published</a>
+        at {{ page.original.owner }}.&nbsp;<a href="#originalPostRef" class="reversefootnote">↩</a>
+      </p>
+    </div>
+    {% endif %}
   </div>
 
   <div class="date">
