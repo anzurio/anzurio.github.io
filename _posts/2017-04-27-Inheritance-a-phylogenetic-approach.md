@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Phylogenetic Approach to Inheritance
+title: "Inheritance: A Phylogenetic Approach"
 excerpt_separator: <!--more-->
 original:
     for: Propelics
