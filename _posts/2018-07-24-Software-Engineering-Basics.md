@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Engineering Basics
-excerpt: In an age of ever-changing requirements, rapidly evolving technology, and discussions over tabs or spaces, never forget the importance of requirements gathering, framework design, and unit testing.
+excerpt_separator: <!--more-->
 original:
     for: Propelics
     owner: Anexinet's Blog
@@ -10,6 +10,8 @@ original:
 ---
 
 In an age of ever-changing requirements, rapidly evolving technology, and discussions over tabs or spaces, never forget the importance of requirements gathering, framework design, and unit testing. These often involve many players: from the clichéd client who doesn’t know what he wants, the product manager who only budgeted for code production, the lead software development engineer who didn’t account for requirement changes, to the developer who feels unit testing is a waste of time and is eager to start writing code.
+
+<!--more-->
 
 These challenges may have been exacerbated by a misinterpretation of the Agile Software Development Methodology. Specifically, its principles and values have been cherry-picked, and in some cases, butchered. Here’s a few examples:
 
