@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Engineering Basics
-excerpt: In an age of ever-changing requirements, rapidly evolving technology, and discussions over tabs or spaces, never forget the importance of requirements gathering, framework design, and unit testing.
+excerpt_separator: <!--more-->
 original:
     for: Propelics
     owner: Anexinet's Blog
@@ -11,10 +11,14 @@ original:
 
 In an age of ever-changing requirements, rapidly evolving technology, and discussions over tabs or spaces, never forget the importance of requirements gathering, framework design, and unit testing. These often involve many players: from the clichéd client who doesn’t know what he wants, the product manager who only budgeted for code production, the lead software development engineer who didn’t account for requirement changes, to the developer who feels unit testing is a waste of time and is eager to start writing code.
 
+<!--more-->
+
 These challenges may have been exacerbated by a misinterpretation of the Agile Software Development Methodology. Specifically, its principles and values have been cherry-picked, and in some cases, butchered. Here’s a few examples:
 
-- Value working software over comprehensive documentation. This doesn’t mean ‘provide no documentation at all’ nor does it imply the developer must focus on producing code that won’t need maintaining down the road. Lest we forget Knuth’s valuable teachings on Literate Programming: “Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.” (Donald Knuth. “Literate Programming (1984)” in Literate Programming. CSLI, 1992, pg. 99).
+- Value working software over comprehensive documentation. This doesn’t mean ‘provide no documentation at all’ nor does it imply the developer must focus on producing code that won’t need maintaining down the road. Lest we forget Knuth’s valuable teachings on Literate Programming: “Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.”[^1] 
 - Welcome changing requirements, value responding to change over following a plan, value customer collaboration over contract negotiation. These do not give either the development firm or the customer license to skip meetings intended to review current development capabilities, to collect as many requirements as possible, to create a plan for accommodating changes in technologies and priorities, and to set scope and expectations.
+
+[^1]: Donald Knuth. “Literate Programming (1984)” in Literate Programming. CSLI, 1992, pg. 99.
 
 This is not to say Agile is broken or that Agile shouldn’t be adapted to fit each enterprise’s needs. _Au contraire_, I always advocate for choosing the right tools to solve a given problem. For instance, don’t use assembly language for complex UI design. Furthermore, each problem is unique and distinct. There is no “one size fits all” solution. Object-oriented design patterns are a great foundation but they may need to be adapted, depending on the specific problem being solved (keeping in mind that any adjustment should be in accordance with good object-oriented software design).
 
