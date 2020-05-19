@@ -1,0 +1,118 @@
+---
+title: Printer-friendly Resume
+permalink: /resume/printable
+---
+
+<html>
+    <head>
+        <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    </head>
+    <style>
+        h3
+        {
+            margin-block-end: 3px;
+        }
+        ul
+        {
+            margin-block-start: 0px;
+            margin-block-end: 5px;
+            padding-inline-start: 15px;
+            list-style-position: outside;
+        }
+        .letter-page {
+            margin: 0 auto;
+            max-width: 670px;
+            width: 100%;
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 13;
+            line-height: 130%;
+        }
+        .header-text {
+            font-size: 50;
+            font-weight: 700;
+            color: red;
+            width: 300px;
+            box-sizing: border-box;
+            display: inline-block;
+            text-align: left;
+            vertical-align: top;
+            line-height: 90%;
+        }
+        .contact-info {
+            width: 200px;
+            text-align: right;
+            vertical-align: top;
+            display: inline-block;
+            margin-left: 130px;
+        }
+        .contact-row-1 {
+            font-size: 13;
+            color: gray;
+            font-weight: 500;
+        }
+        .contact-row-2 {
+            font-size: 10;
+            color: gray;
+            font-weight: 500;
+        }
+        .left {
+            display: inline-block;
+            text-align: left;
+            width: 20%;
+        }
+        .right
+        {
+            display: inline-block;
+            text-align: left;
+            width: 80%;
+        }
+    </style>
+    <body>
+        <div class="letter-page">
+                <div class="header-text">{{ site.name }}</div>
+                <div class="contact-info">
+                    <div class="contact-row-1"><div class="left">M</div><div class="right">(+52) 33 2009 4822</div></div>
+                    <div class="contact-row-1"><div class="left">E</div><div class="right">anzurio@gmail.com</div></div>
+                    {% if site.footer-links.github %}
+                    <div class="contact-row-2"><div class="left">GH</div><div class="right">github.com/{{ site.footer-links.github }}</div></div>
+                    {% endif %}
+                    {% if site.footer-links.github %}
+                    <div class="contact-row-2"><div class="left">LI</div><div class="right">linkedin.com/in/{{ site.footer-links.linkedin }}</div></div>
+                    {% endif %}
+                    {% if site.footer-links.github %}
+                    <div class="contact-row-2"><div class="left">SO</div><div class="right">careers.stackoverflow.com/{{ site.footer-links.stackoverflow }}</div></div>
+                    {% endif %}
+                </div>
+                <h3>&nbsp;</h3>
+                <h3>Profile</h3>
+                {{ site.data.resume.professional-profile }}
+                <h3>Experience</h3>
+                {% for experience in site.data.resume.experience %}
+                <strong>{{ experience.title }} – {{ experience.company }}</strong>
+                {{ experience.location }} – {{ experience.date }}
+                <ul>
+                {% for item in experience.items %} 
+                <li>{{ item }} </li>
+                {% endfor %}
+                </ul>
+                {% endfor %}
+                <h3>Education</h3>
+                {% for education in site.data.resume.education %}
+                <strong>{{ education.institution }} – {{education.degree }}, {{ education.class }}</strong>
+                {{ education.location }}
+                <ul>
+                {% for item in education.items %} 
+                <li>{{ item }} </li>
+                {% endfor %}
+                </ul>
+                {% endfor %}
+
+                {% for other in site.data.resume.others %}
+                <h3>{{ other.title }}</h3>
+                {{ other.body }}
+                {% endfor %}
+
+
+        </div>
+    </body>
+</html>

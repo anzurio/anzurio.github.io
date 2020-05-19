@@ -1,0 +1,87 @@
+{
+    "professional-profile": "Software architect with 12 years of professional experience developing a wide range of projects including object-oriented frameworks, libraries, web services, and applications in .NET, C++, and Javascript; over 8 years taking the software engineering manager, technical and team leader roles. I thrive on exploring computer programming at its core; getting my hands dirty with manual memory management, language theory and mathematical complexities.",
+    "experience" : [
+        {
+            "title" : "Software Architect / Team Leader",
+            "company" : "Propelics/Anexinet",
+            "location" : "Guadalajara, Mexico",
+            "date" : "2016 - Current",
+            "items" : [
+                "Designed, maintained, and improved a multi-tenant, multi-app authentication and authorization .NET MVC RESTful dynamic mobile as a service Web API using C#, ASP.NET and MongoDB.",
+                "Architected elegant and sophisticated solutions to circumvent limitations of proprietary cross-platform Software Development Frameworks such as UWP and Appcelerator Titanium.",
+                "Assisted in the definition of development plans by suggesting key scope adjustments by analyzing requirements and resources for each cycle.",
+                "Designed and implemented cross-technology integrations.",
+                "Provided web services for the company's mobile and web products as well as administering and architected NoSQL (MongoDB) databases for such services which further allowed mobile app developers to define their own schema.",
+                "Swiftly handpicked five candidates to join a new team in order to steer a VB6 to .NET port project back into course exceeding time and quality expectations.",
+                "Defined and promoted the company-wide adoption of .NET coding standards, conventions, idioms, and guidelines for Xamarin cross-platform App, UWP, and other .NET projects.",
+                "Created Windows Runtime Libraries (using both C# and C++) to be consumed by UWP applications.",
+                "Created native JavaScriptCore libraries to be consumed by Titanium cross-platform Javascript mobile applications.",
+                "Suggested and implemented several DevOps strategies to streamline product-related turnaround using GitHub and Azure DevOps Server including but not limited to branch strategy git workflow, project management software integration with source versioning, continuous integration (CI) implementation, and Continuous Delivery (CD) implementation.",
+                "Defined career paths, performance plans and goals for engineers to get promoted and thus, improving their overall job satisfaction.",
+                "Coached senior engineers on a wide range topics including: software engineering, computer science, problem solving algorithms, best coding practices, Windows debugging, object oriented design.",
+                "Conducted technical interviews and made hiring decisions.",
+                "Managed the team by ensuring team members get adequate feedback through 1-1s, feedback sessions, et al.",
+                "Worked with project management tools, performed code reviews and otherwise support Engineering leadership.",
+                "Facilitated the removal of obstacles in order to keep the team motivated and focused.",
+                "Relevant Expertise: .NET Core; .NET Framework; ASP.NET; Azure DevOps Services; C++ (C++03, C++11, C++14); C++CX; C#; Git; JavaScriptCore; LINQ;  Microsoft's CIL (formerly known as MSIL); Microsoft's Parallel Patterns Library (Concurrency namespace); SQL Server; MongoDB; MVC; Object-Oriented Architecture, Design and Programming; Powershell; REST API; T-SQL; Universal Windows Platform (UWP and UAP); WebAPI; Windows Forms (WinForms); Windows Runtime (WinRT)."
+            ]
+        },
+        {
+            "title" : "Senior Software Engineer / Technical Leader",
+            "company" : "National Instruments",
+            "location" : "Austin, TX",
+            "date" : "2008 - 2015",
+            "items" : [
+                "Assisted in the definition of development plans by suggesting key scope adjustments by analyzing requirements and resources for each cycle.",
+                "Assigned tasks to different members of the team according to their individual strengths and weaknesses.",
+                "Coached three newly-hired developers up to pace exceeding timing expectations.",
+                "Devised and executed a career development plan for my colleagues to grow in their paths while minimizing the teams’ overall gaps in expertise.",
+                "Conducted technical and behavioral interviews and made hiring decisions.",
+                "Was consulted, company-wide, on object oriented framework implementation and design.",
+                "Became the effective expert of all of the products within Measurement Studio by following closely the group’s business strategy and proposing, and often times implementing, improvements and new features.",
+                "Consistently produced high quality solutions on or ahead of schedule.",
+                "Designed, created, implemented, and maintained several .NET and C++ object-oriented frameworks for the National Instruments’ products listed at the end of this section.",
+                "Repeatedly demonstrated willingness and proficiency at acquiring knowledge into unfamiliar technologies on short notice and properly applying the concepts learnt with high level of mastery. This includes (but it is not limited to): 64-bit processes, ASP.NET, CVI, F#, JavaScript, LabVIEW, Virtualization, WiX, WPF, XML.",
+                "Migrated existing products to be able to run in or as 64-bit processes.",
+                "Facilitated the improvement of external products by debugging, identifying problematic code, and proposing solutions.",
+                "Participated in the definition of IVI Foundation’s VISA.NET Shared Components.",
+                "Relevant Expertise: .NET Framework (1.1 - 4.6), Agile, Assembly, C, C++, C++’s STL, C++/CLI, C# (1.2 - 5.0), concurrency, Microsoft Foundation Classes (MFC versions 7.1 - 10.0), Microsoft’s CLR (1.1 - 4.0), Microsoft’s Intermediate Language (MSIL), Microsoft Visual Studio (internal versions 7.1 - 12.0), multi-threading, object-oriented design, Perforce, product release management, UI usability, VB.NET (7.1 - 11.0), Windows Forms, WPF.",
+                "Products: CVI’s Advanced Analysis Library, DAQmx .NET, GPIB for .NET,  LabVIEW’s TDMS, Measurement Studio, NI-VisaNS .NET, NI-MAX. "
+            ]
+        }
+    ],
+    "education" : [
+        {
+            "institution" : "Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)",
+            "location" : "Guadalajara, Mexico",
+            "degree" : "B.Sc. Software Engineering",
+            "class" : "2008",
+            "items" : [
+                "Top of Class at the National General Exam for Higher Education (score 1197 out of 1300).",
+                "Cumulative grade average: 88 out of 100; major-only weighted grade average: 90 out of 100.",
+                "Recurrent delegate at ACM’s International Collegiate Programming Contest (’04 - ’06)."
+            ]
+        },
+        {
+            "institution" : "Aalborg Universitet",
+            "location" : "Aalborg, Denmark",
+            "degree" : "Computer Science Exchange Program",
+            "class" : "2006 - 2007",
+            "items" : [
+                "Exchange program.",
+                "HIDALGO, PARRA, DUBERNET. \"Licence to Kill: The Right to Shut Down Locations in a Distributed Process Calculus\". Published at Aalborg University’s Department of Computer Science."
+            ]
+        }
+    ],
+    "others" : [
+        {
+            "title" : "Other Career-Relevant Skills",
+            "body" : "Algorithm analysis, computer organization and architecture, data structures, database modeling, discrete mathematics, formal language theory, networking fundamentals, operating systems, SQL, statistical analysis, Unified Process, UML." 
+        },
+        {
+            "title" : "Personal Skills",
+            "body" : "Commitment, drive for excellence, leadership, passionate autodidactic person, team player, thirst for knowledge." 
+        }
+    ]
+    
+}
