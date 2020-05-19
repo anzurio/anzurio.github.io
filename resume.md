@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 ## Profile
-Software architect with 12 years of professional experience developing a wide range of projects including object-oriented frameworks, libraries, web services, and applications in .NET, C++, and Javascript; over 8 years taking the software engineering manager, technical and team leader roles. I thrive on exploring computer programming at its core; getting my hands dirty with manual memory management, language theory and mathematical complexities.
+{{ site.data.resume.professional-profile }}
 
 ## Experience
 {% for experience in site.data.resume.experience %}
