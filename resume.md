@@ -3,8 +3,11 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
-
-## Profile
+<div style="text-align:right">
+  <a target="_blank" href="{{ site.baseurl }}/resume/printable">Printer-friendly</a>
+</div>
+          
+## Profile 
 {{ site.data.resume.professional-profile }}
 
 ## Experience
