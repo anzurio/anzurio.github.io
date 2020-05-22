@@ -1,0 +1,33 @@
+---
+title: Printer-friendly Resume
+permalink: /resume/plain
+---
+{{ site.name }}
+{{ site.data.resume.professional-profile }}
+
+Email: anzurio@gmail.com
+Phone: (+52) 33 2009 4822
+{% if site.footer-links.github %}Github: https://www.github.com/{{ site.footer-links.github }}{% endif %}
+{% if site.footer-links.linkedin %}LinkedIn: https://www.linkedin.com/in/{{ site.footer-links.linkedin }}{% endif %}
+{% if site.footer-links.stackoverflow %}StackOverflow: https://careers.stackoverflow.com/{{ site.footer-links.stackoverflow }}{% endif %}
+{% if site.url %}Website: {{ site.url }}{% endif %}
+
+Experience
+{% for experience in site.data.resume.experience %}
+{{ experience.title }} – {{ experience.company }}
+{{ experience.location }} – {{ experience.date }}
+{% for item in experience.items %}- {{ item }} 
+{% endfor %}
+{% endfor %}
+                
+Education
+{% for education in site.data.resume.education %}
+{{ education.institution }} – {{education.degree }}, {{ education.class }}
+{{ education.location }}
+{% for item in education.items %}- {{ item }}
+{% endfor %}
+{% endfor %}
+{% for other in site.data.resume.others %}
+{{ other.title }}
+{{ other.body }}
+{% endfor %}
