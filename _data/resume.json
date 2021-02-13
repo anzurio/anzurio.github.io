@@ -2,6 +2,22 @@
     "professional-profile": "Software architect with 12 years of professional experience developing a wide range of projects including object-oriented frameworks, libraries, web services, and applications in .NET, C++, and Javascript; over 8 years taking the software engineering manager, technical and team leader roles. I thrive on exploring computer programming at its core; getting my hands dirty with manual memory management, language theory and mathematical complexities.",
     "experience" : [
         {
+            "title" : "Senior Software Engineer",
+            "company" : "OneLogin",
+            "location" : "Guadalajara, Mexico",
+            "date" : "2020 - current",
+            "items" : [
+                "Implemented the provisioning of AWS resources through the use of Terraform and improved the access policy attachments to enforce the principle of Least Privilege.",
+                "Participated in the definition of product requirements and created the appropriate software specification documents.",
+                "Created a local development environment written in node.js to facilitate the testing of Desktop products (Windows and MacOS) which mocks the web services with hot-reloading.",
+                "During a company-wide hackathon focused on innovation and improvements, the team I was a member of was recognized as the best Security-oriented proof-of-concept. The proof consisted on leveraging AWS KMS to sign SAML Assertions.",
+                "Collaborated with the Security Team to improve the security of the product and its overall supply chain.",
+                "Gave a Tech Talk on GitHub Packages and the GitHub GraphQL API just two months after having joined the company.",
+                "Pioneered the usage of GitHub Packages and was consulted company-wide on how other products may leverage GitHub packages to create their own libraries of reusable components.",
+                "Migrated the CI/CD pipelines of products from TeamCity to GitHub Actions."
+            ] 
+        },
+        {
             "title" : "Director of Software Engineering",
             "company" : "IkonGPS",
             "location" : "Guadalajara, Mexico",
