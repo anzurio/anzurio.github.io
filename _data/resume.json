@@ -2,10 +2,41 @@
     "professional-profile": "Software architect with 12 years of professional experience developing a wide range of projects including object-oriented frameworks, libraries, web services, and applications in .NET, C++, and Javascript; over 8 years taking the software engineering manager, technical and team leader roles. I thrive on exploring computer programming at its core; getting my hands dirty with manual memory management, language theory and mathematical complexities.",
     "experience" : [
         {
+            "title" : "Senior Software Engineer",
+            "company" : "OneLogin",
+            "location" : "Guadalajara, Mexico",
+            "date" : "2020 - current",
+            "items" : [
+                "Implemented the provisioning of AWS resources through the use of Terraform and improved the access policy attachments to enforce the principle of Least Privilege.",
+                "Participated in the definition of product requirements and created the appropriate software specification documents.",
+                "Created a local development environment written in node.js to facilitate the testing of Desktop products (Windows and MacOS) which mocks the web services with hot-reloading.",
+                "During a company-wide hackathon focused on innovation and improvements, the team I was a member of was recognized as the best Security-oriented proof-of-concept. The proof consisted on leveraging AWS KMS to sign SAML Assertions.",
+                "Collaborated with the Security Team to improve the security of the product and its overall supply chain.",
+                "Gave a Tech Talk on GitHub Packages and the GitHub GraphQL API just two months after having joined the company.",
+                "Pioneered the usage of GitHub Packages and was consulted company-wide on how other products may leverage GitHub packages to create their own libraries of reusable components.",
+                "Migrated the CI/CD pipelines of products from TeamCity to GitHub Actions."
+            ] 
+        },
+        {
+            "title" : "Director of Software Engineering",
+            "company" : "IkonGPS",
+            "location" : "Guadalajara, Mexico",
+            "date" : "2019 - 2020",
+            "items" : [
+                "Drove the adoption of the new platform by current and new partners and vendors.",
+                "Refashioned the current monolithic product by architecting and implementing the spinning-off of new features through microservices.",
+                "Laid the groundwork for the overall modernization of the enterprise by pushing the adoption of modern software engineering practices and principles such as: Agile (Scrum and Kanban), Continuous Integration, Continuous Delivery, Unit Tests, Code Reviews, branching strategies, project management tools.",
+                "Eagerly contributed to the development of the overall technical proficienty of the team by sharing my knowledge in higher-level software concepts (security, design, architecture, algorithms, data structures) as well as in specific technologies (C#, .NET Core, MongoDB, NoSQL, git).",
+                "Participated in the definition of a product roadmap and created a plan of execution.",
+                "Maintained an environment of camaraderie amongst all the team members and asserted they had all the tools to be successful and being kept motivated.",
+                "Recruited and onboarded new team members and helped with all the day-to-day operational issues."
+            ] 
+        },
+        {
             "title" : "Software Architect / Team Leader",
             "company" : "Propelics/Anexinet",
             "location" : "Guadalajara, Mexico",
-            "date" : "2016 - Current",
+            "date" : "2016 - 2019",
             "items" : [
                 "Designed, maintained, and improved a multi-tenant, multi-app authentication and authorization .NET MVC RESTful dynamic mobile as a service Web API using C#, ASP.NET and MongoDB.",
                 "Architected elegant and sophisticated solutions to circumvent limitations of proprietary cross-platform Software Development Frameworks such as UWP and Appcelerator Titanium.",
