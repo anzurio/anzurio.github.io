@@ -1,5 +1,5 @@
 {
-    "professional-profile": "Software architect with 12 years of professional experience developing a wide range of projects including object-oriented frameworks, libraries, web services, and applications in .NET, C++, and Javascript; over 8 years taking the software engineering manager, technical and team leader roles. I thrive on exploring computer programming at its core; getting my hands dirty with manual memory management, language theory and mathematical complexities.",
+    "professional-profile": "Team leader for software enterprises keen to drive best-in-class results and keep up teams' motivation. Over 12 years of professional experience developing and designing a wide range of projects including object-oriented frameworks, libraries, web services, and applications in .NET, C++, and Javascript; over 8 years taking the software engineering manager, technical and team leader roles. I thrive on exploring computer programming at its core; getting my hands dirty with manual memory management, language theory and mathematical complexities.",
     "experience" : [
         {
             "title" : "Senior Software Engineer",
@@ -18,7 +18,7 @@
             ] 
         },
         {
-            "title" : "Director of Software Engineering",
+            "title" : "Team Member",
             "company" : "IkonGPS",
             "location" : "Guadalajara, Mexico",
             "date" : "2019 - 2020",
@@ -26,10 +26,12 @@
                 "Drove the adoption of the new platform by current and new partners and vendors.",
                 "Refashioned the current monolithic product by architecting and implementing the spinning-off of new features through microservices.",
                 "Laid the groundwork for the overall modernization of the enterprise by pushing the adoption of modern software engineering practices and principles such as: Agile (Scrum and Kanban), Continuous Integration, Continuous Delivery, Unit Tests, Code Reviews, branching strategies, project management tools.",
-                "Eagerly contributed to the development of the overall technical proficienty of the team by sharing my knowledge in higher-level software concepts (security, design, architecture, algorithms, data structures) as well as in specific technologies (C#, .NET Core, MongoDB, NoSQL, git).",
+                "Eagerly contributed to the development of the overall technical proficiency of the team by sharing my knowledge in higher-level software concepts (security, design, architecture, algorithms, data structures) as well as in specific technologies (C#, .NET Core, MongoDB, NoSQL, git).",
                 "Participated in the definition of a product roadmap and created a plan of execution.",
                 "Maintained an environment of camaraderie amongst all the team members and asserted they had all the tools to be successful and being kept motivated.",
-                "Recruited and onboarded new team members and helped with all the day-to-day operational issues."
+                "Recruited and onboarded new team members and helped with all the day-to-day operational issues.",
+                "Demonstrated dedication and responsability in delivering results.", 
+                "Acted as de facto Team Leader and lead by example by understanding organization goals and needs."
             ] 
         },
         {
@@ -49,11 +51,14 @@
                 "Created native JavaScriptCore libraries to be consumed by Titanium cross-platform Javascript mobile applications.",
                 "Suggested and implemented several DevOps strategies to streamline product-related turnaround using GitHub and Azure DevOps Server including but not limited to branch strategy git workflow, project management software integration with source versioning, continuous integration (CI) implementation, and Continuous Delivery (CD) implementation.",
                 "Defined career paths, performance plans and goals for engineers to get promoted and thus, improving their overall job satisfaction.",
+                "Influenced a medium size team to achieve their goals.",
+                "Defined technical profiles, performance metrics, and training standards.",
                 "Coached senior engineers on a wide range topics including: software engineering, computer science, problem solving algorithms, best coding practices, Windows debugging, object oriented design.",
                 "Conducted technical interviews and made hiring decisions.",
                 "Managed the team by ensuring team members get adequate feedback through 1-1s, feedback sessions, et al.",
                 "Worked with project management tools, performed code reviews and otherwise support Engineering leadership.",
                 "Facilitated the removal of obstacles in order to keep the team motivated and focused.",
+                "Demonstrated strong quality orientation and got involved in organization process that helped enhance the organization productivity.",
                 "Relevant Expertise: .NET Core; .NET Framework; ASP.NET; Azure DevOps Services; C++ (C++03, C++11, C++14); C++CX; C#; Git; JavaScriptCore; LINQ;  Microsoft's CIL (formerly known as MSIL); Microsoft's Parallel Patterns Library (Concurrency namespace); SQL Server; MongoDB; MVC; Object-Oriented Architecture, Design and Programming; Powershell; REST API; T-SQL; Universal Windows Platform (UWP and UAP); WebAPI; Windows Forms (WinForms); Windows Runtime (WinRT)."
             ]
         },
