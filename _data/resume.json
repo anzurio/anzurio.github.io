@@ -67,7 +67,7 @@
             "title" : "Engineering Manager",
             "company" : "Netflix",
             "location" : "Los Gatos, CA",
-            "date" : "2015 - 2016",
+            "date" : "2015",
             "items" : [
                 "Grew, lead, and motivated a team of server-side engineers building distributed microservices.",
                 "Re-evaluated software architectural choices on an ongoing basis to be ever better prepared for scale and evolution.",
