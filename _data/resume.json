@@ -64,21 +64,6 @@
             ]
         },
         {
-            "title" : "Engineering Manager",
-            "company" : "Netflix",
-            "location" : "Los Gatos, CA",
-            "date" : "2015",
-            "items" : [
-                "Grew, lead, and motivated a team of server-side engineers building distributed microservices.",
-                "Re-evaluated software architectural choices on an ongoing basis to be ever better prepared for scale and evolution.",
-                "Collaborated with other managers to create cohesive strategies and roadmaps across organizational boundaries.",
-                "Implemented several strategies in order to solve social challenges from which, I was able to improve the productivity of my team as measured by the reduction of the backlog in half within 6 months.",
-                "Guided three brand-new projects end-to-end: from idea, implementation, testing, all the way to production.",
-                "With the help of senior engineers, I drove the simplification of designs, operations, and deployment plans reducing complexity while providing maintainability and extensibility.",
-                "Drove the team's strategic direction and lead with a hands-on approach to problem solving i.e., provided context but enabled team member to be their own bosses on their own projects and initiatives."
-             ]
-        },
-        {
             "title" : "Senior Software Engineer / Technical Leader",
             "company" : "National Instruments",
             "location" : "Austin, TX",
