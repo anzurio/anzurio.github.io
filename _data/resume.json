@@ -7,8 +7,11 @@
             "location" : "Guadalajara, Mexico",
             "date" : "2020 - 2022",
             "items" : [
-                "Architected and implemented the Update Notifications feature for the OneLogin Desktop for Windows Application",
-                "Drove the backend implementation, cloud resources provisioning and Continuous Delivery of the automatic client software publishing", 
+                "Architected and implemented the Update Notifications feature for the OneLogin Desktop for Windows Application.",
+                "Drove the backend design and implementation, cloud resources provisioning, and Continuous Delivery of the automatic client software publishing.",
+                "Came up with several API proposals/designs to further improve Multiple Factor Authentication (MFA) for both OneLogin Desktop PRO products.",
+                "Proposed and demonstrated changes to the OneLogin Desktop PRO Application that leverages Windows Credential Provider's COM-interfaces and C++/CLI to provide support for MFA in the Windows logon screen.",
+                "Coordinated all cross-team interactions for two releases for OneLogin Desktop for Windows from start to finish.",
                 "Implemented the provisioning of AWS resources through the use of Terraform and improved the access policy attachments to enforce the principle of Least Privilege.",
                 "Participated in the definition of product requirements and created the appropriate software specification documents.",
                 "Created a local development environment written in node.js to facilitate the testing of Desktop products (Windows and MacOS) which mocks the web services with hot-reloading.",
