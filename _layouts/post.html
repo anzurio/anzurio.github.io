@@ -22,6 +22,13 @@ layout: default
       </p>
     </div>
     {% endif %}
+    {%if page.thanks %}
+    <div id="originalFootnoteRef" class="footnotes">
+      <p>
+        Special thanks to: {{  page.thanks }}.
+      </p>
+    </div>
+    {% endif %}
     <div class="post-nav">
       {% if page.previous.url %} 
         <div class="post-nav__previous">
