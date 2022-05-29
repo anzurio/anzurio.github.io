@@ -9,7 +9,7 @@ Email: anzurio@gmail.com
 Phone: (+52) 33 2009 4822
 {% if site.footer-links.github %}Github: https://www.github.com/{{ site.footer-links.github }}{% endif %}
 {% if site.footer-links.linkedin %}LinkedIn: https://www.linkedin.com/in/{{ site.footer-links.linkedin }}{% endif %}
-{% if site.footer-links.stackoverflow %}StackOverflow: https://careers.stackoverflow.com/{{ site.footer-links.stackoverflow }}{% endif %}
+{% if site.footer-links.stackoverflow %}StackOverflow: https://stackoverflow.com/users/{{ site.footer-links.stackoverflow }}{% endif %}
 {% if site.url %}Website: {{ site.url }}{% endif %}
 
 Experience
