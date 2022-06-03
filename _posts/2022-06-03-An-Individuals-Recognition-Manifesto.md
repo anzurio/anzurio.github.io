@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Individual's Recognition Manifesto
+title: "An Individual's Recognition Manifesto"
 excerpt_separator: <!--more-->
 ---
 
