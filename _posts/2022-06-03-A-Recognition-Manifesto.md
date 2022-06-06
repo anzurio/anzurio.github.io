@@ -4,7 +4,7 @@ title: "A Recognition Manifesto"
 excerpt_separator: <!--more-->
 ---
 
-Some Spanish-speaking bosses, to get their employees to work harder use a phrase that transliterates into English as “Wear the (firm’s) shirt.” This is a way of asking employees to show their commitment to the firm in one of many ways including but not limited to working extra hours without retribution. 
+Some Spanish-speaking bosses, to get their employees to work harder use a phrase that transliterates into English as "Wear the (firm's) shirt". This is a way of asking employees to show their commitment to the firm in one of many ways including but not limited to working extra hours without retribution. 
 
 <!--more-->
 
