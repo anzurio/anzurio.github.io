@@ -3,18 +3,19 @@
     "experience" : [
         {
             "title" : "Senior Software Engineering Manager - Online Trading",
-            "company" : "Leading Brokerage Firm in Mexico",
+            "company" : "Grupo Bursátil Mexicano (a.k.a. GBM)",
             "location" : "Remote (Mexico)",
-            "date" : "2022 Contract",
+            "date" : "2022",
             "items" : [
-                "My main focus was removing obstacles in terms of efficiency, efficacy, and vision to pave the way for the next person to assume my position focus in what matters the most: motivation through people development.",
-                "Throughout my tenure, I was involved in multidisciplinary negotiations and assisted in finding a balance that would benefit all, the business, the customer, and the employees.",
-                "I orchestrated War Rooms to successfully contain incidents, find root causes, and ideated processes to mitigate similar incidents in the future.",
-                "Within my first 6 weeks, I created and ran the first ever Productivity Poll for my Pod to figure out what can I do to better serve my team's productivity. The poll had an 80% participation rate.",
-                "Within my first month, I, through constant iteration and feedback, proposed a process which will help the team formalize the why, how, what, when, who of a major request brought by my direct reports: addressing technical debt. This process would be used as a tool to provide visibility to other disciplines, thereby aiding the proper allocation of time to resolve the team's petition.",
-                "Within my first three weeks, I created a Pod organization and responsibility scoping proposal taking from those of other technology companies and making adaptations such that the adoption would be seamless.",
-                "Within my first fortnight, I identified the strengths of each individual in the team and specifically, recognized distinct characteristics of two people beyond their individual contributions and became a promoter of a role change to steer them towards a career path that will help them achieve their maximum potential hence providing even more value to the firm.",
-                "Within my first week, through running 1-on-1 meetings with my direct reports, I produced an Executive Summary of Findings describing what the firm should stop, continue and start doing to increase the motivation of the team and consequently improve talent acquisition and retention."
+                "Facilitated efficiency, efficacy, and vision improvements while prioritizing motivation through people development.",
+                "Led multidisciplinary negotiations, striking a balance that benefited the business, customers, and employees alike.",
+                "Orchestrated War Rooms to effectively contain incidents, identify root causes, and implement preventive measures, reducing future incidents.",
+                "Successfully led efforts to reduce market open incidents, achieving a notable decrease in both frequency and duration, positively impacting overall business performance.",
+                "Initiated Productivity Polls, achieving an 80% participation rate, to identify opportunities for enhancing team productivity which demostrated a gradual 12% improvement.",
+                "Developed a process involving constant iteration and feedback, to address technical debt and allocate time efficiently across different disciplines.",
+                "Designed a Pod organization and responsibility scoping proposal, drawing from best practices in the industry and ensuring smooth adoption.",
+                "Recognized individual strengths within the team and advocated for role changes to align their career paths with their potential, leading to increased value for the firm.",
+                "Conducted 1-on-1s with direct reports producing an Executive Summary of Findings that informed the firm on areas to improve motivation, talent acquisition, and retention strategies."
             ] 
         },
         {
@@ -23,19 +24,19 @@
             "location" : "Remote (Mexico)",
             "date" : "2020 - 2022",
             "items" : [
-                "Architected and implemented the Update Notifications feature for the OneLogin Desktop for Windows Application.",
-                "Drove the backend design and implementation, cloud resources provisioning, and Continuous Delivery of the automatic client software publishing.",
-                "Came up with several API proposals/designs to further improve Multiple Factor Authentication (MFA) for both OneLogin Desktop PRO products.",
-                "Proposed and demonstrated changes to the OneLogin Desktop PRO Application that leverages Windows Credential Provider's COM-interfaces and C++/CLI to provide support for MFA in the Windows logon screen.",
-                "Coordinated all cross-team interactions for two releases for OneLogin Desktop for Windows from start to finish.",
-                "Implemented the provisioning of AWS resources through the use of Terraform and improved the access policy attachments to enforce the principle of Least Privilege.",
-                "Participated in the definition of product requirements and created the appropriate software specification documents.",
-                "Created a local development environment written in node.js to facilitate the testing of Desktop products (Windows and MacOS) which mocks the web services with hot-reloading.",
-                "During a company-wide hackathon focused on innovation and improvements, the team I was a member of was recognized as the best Security-oriented proof-of-concept. The proof consisted on leveraging AWS KMS to sign SAML Assertions.",
-                "Collaborated with the Security Team to improve the security of the product and its overall supply chain.",
-                "Gave a Tech Talk on GitHub Packages and the GitHub GraphQL API just two months after having joined the company.",
-                "Pioneered the usage of GitHub Packages and was consulted company-wide on how other products may leverage GitHub packages to create their own libraries of reusable components.",
-                "Migrated the CI/CD pipelines of products from TeamCity to GitHub Actions."
+                "Architected and implemented the Update Notifications feature for the OneLogin Desktop for Windows Application, enhancing user experience and ensuring timely updates.",
+                "Led the backend design, cloud resources provisioning, and Continuous Delivery of automatic client software publishing, reducing release cycles and improving efficiency.",
+                "CDeveloped innovative API proposals/designs to enhance Multiple Factor Authentication (MFA) for OneLogin Desktop PRO products, bolstering security measures and user authentication.",
+                "Demonstrated changes to the OneLogin Desktop PRO Application, leveraging Windows Credential Provider's COM-interfaces and C++/CLI to provide MFA support on the Windows logon screen, increasing product capabilities.",
+                "Coordinated end-to-end cross-team interactions for two successful releases of OneLogin Desktop for Windows, ensuring seamless product delivery.",
+                "Implemented AWS resource provisioning using Terraform and improved access policy attachments, enforcing the principle of Least Privilege, enhancing security measures.",
+                "Played a key role in defining product requirements and created comprehensive software specification documents, ensuring a clear roadmap for product development.",
+                "Designed a local development environment in node.js for testing Desktop products (Windows and MacOS), streamlining the testing process with web service mocking and hot-reloading.",
+                "Participated in a company-wide hackathon, contributing to the best Security-oriented proof-of-concept that utilized AWS KMS to sign SAML Assertions.",
+                "Collaborated closely with the Security Team to enhance product security and overall supply chain resilience.",
+                "Delivered a Tech Talk on GitHub Packages and the GitHub GraphQL API within two months of joining the company, showcasing expertise and knowledge-sharing.",
+                "Pioneered the adoption of GitHub Packages across the organization, advising teams on leveraging the platform to create their libraries of reusable components, increasing code reusability.",
+                "Successfully migrated CI/CD pipelines from TeamCity to GitHub Actions, resulting in improved automation, faster deployments, and enhanced code integration processes."
             ] 
         },
         {
