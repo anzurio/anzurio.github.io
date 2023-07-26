@@ -11,7 +11,7 @@
                 "Led multidisciplinary negotiations, striking a balance that benefited the business, customers, and employees alike.",
                 "Orchestrated War Rooms to effectively contain incidents, identify root causes, and implement preventive measures, reducing future incidents.",
                 "Successfully led efforts to reduce market open incidents, achieving a notable decrease in both frequency and duration, positively impacting overall business performance.",
-                "Initiated Productivity Polls, achieving an 80% participation rate, to identify opportunities for enhancing team productivity which demostrated a gradual 12% improvement.",
+                "Initiated Productivity Polls, achieving an 80% participation rate, to identify opportunities for enhancing team productivity which showed a gradual 12% improvement in productivity.",
                 "Developed a process involving constant iteration and feedback, to address technical debt and allocate time efficiently across different disciplines.",
                 "Designed a Pod organization and responsibility scoping proposal, drawing from best practices in the industry and ensuring smooth adoption.",
                 "Recognized individual strengths within the team and advocated for role changes to align their career paths with their potential, leading to increased value for the firm.",
@@ -26,7 +26,7 @@
             "items" : [
                 "Architected and implemented the Update Notifications feature for the OneLogin Desktop for Windows Application, enhancing user experience and ensuring timely updates.",
                 "Led the backend design, cloud resources provisioning, and Continuous Delivery of automatic client software publishing, reducing release cycles and improving efficiency.",
-                "CDeveloped innovative API proposals/designs to enhance Multiple Factor Authentication (MFA) for OneLogin Desktop PRO products, bolstering security measures and user authentication.",
+                "Developed innovative API proposals/designs to enhance Multiple Factor Authentication (MFA) for OneLogin Desktop PRO products, bolstering security measures and user authentication.",
                 "Demonstrated changes to the OneLogin Desktop PRO Application, leveraging Windows Credential Provider's COM-interfaces and C++/CLI to provide MFA support on the Windows logon screen, increasing product capabilities.",
                 "Coordinated end-to-end cross-team interactions for two successful releases of OneLogin Desktop for Windows, ensuring seamless product delivery.",
                 "Implemented AWS resource provisioning using Terraform and improved access policy attachments, enforcing the principle of Least Privilege, enhancing security measures.",
