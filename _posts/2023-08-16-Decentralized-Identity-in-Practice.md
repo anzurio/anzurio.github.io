@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revolutionizing Identity: Decentralized Identity's Impact on Healthcare"
+title: "Revolutionizing Identity: Decentralized Identity"
 excerpt_separator: <!--more-->
 original:
     for: WhoIAm
