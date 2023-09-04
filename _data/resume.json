@@ -2,6 +2,21 @@
     "professional-profile": "Senior Software Engineering Manager with over 8 years of professional experience taking on leadership roles such as Technical Program Manager, Engineering Manager, Tech Lead, and Software Architect. I help organizations build high performing Software Engineering Teams through motivation and people development. \n\n14 years of professional experience developing a wide range of projects including object-oriented frameworks, libraries, web services, and applications in .NET, C++, and Javascript. I thrive on exploring computer programming at its core; getting my hands dirty with manual memory management, language theory and mathematical complexities.",
     "experience" : [
         {
+            "title" : "Associate Solutions Architect - Access and Identity Management",
+            "company" : "WhoIAm",
+            "location" : "Remote (Mexico)",
+            "date" : "2023",
+            "items" : [
+                "Collaborated directly with multiple customers to understand their requirements, designing and mapping out user journeys, and creating customized policy architectures in Azure Active Directory B2C (AAD B2C).",
+                "Provisioned Azure resources to support Intermediate APIs, UI and other assets required for user journeys, ensuring seamless integration with identity solutions.",
+                "Enhanced security and fraud protection meaures by implementing Microsoft's Dynamics Fraud Protection (DFP) and other means of account protection such as Multifactor Authentication (MFA).", 
+                "Established and configured automated pipelines and release processes using Azure DevOps, streamlining the deployment of policies, intermediate APIs, and UI assets.",
+                "Drove the implementation of automated Identity Management processes, workflows, and policies to enhance operational efficiency.",
+                "Continuously identified opportunities to enhance architecture and design within Identity and Access Management (IAM) solutions integrating with Social and other types of AAD federation."
+                
+                ] 
+        },
+        {
             "title" : "Senior Software Engineering Manager - Online Trading",
             "company" : "Grupo Bursátil Mexicano (a.k.a. GBM)",
             "location" : "Remote (Mexico)",
