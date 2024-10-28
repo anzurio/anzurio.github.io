@@ -7,6 +7,8 @@
             "location" : "Remote (Mexico)",
             "date" : "2023",
             "items" : [
+                "Implemented the Fraud Risk Assessment strategy for one of the largest payment processors in the world.",
+                "Created PoCs for Android and iOS to integrate Microsoft Authentication and Fraud Protection SDKs to showcase their capabilities to prospective clients.",
                 "Collaborated directly with multiple customers to understand their requirements, designing and mapping out user journeys, and creating customized policy architectures in Azure Active Directory B2C (AAD B2C).",
                 "Provisioned Azure resources to support Intermediate APIs, UI and other assets required for user journeys, ensuring seamless integration with identity solutions.",
                 "Enhanced security and fraud protection meaures by implementing Microsoft's Dynamics Fraud Protection (DFP) and other means of account protection such as Multifactor Authentication (MFA).", 
