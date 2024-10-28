@@ -101,8 +101,8 @@ permalink: /resume/printable
                 {% endfor %}
                 <h3>Education</h3>
                 {% for education in site.data.resume.education %}
-                <strong>{{ education.institution }} – {{education.degree }}, {{ education.class }}</strong>
-                {{ education.location }}
+                <p></p><strong>{{ education.institution }} – {{education.degree }}, {{ education.class }}</strong>
+                {{ education.location }}</p>
                 <!--ul>
                 //{% for item in education.items %} 
                 <li>{{ item }} </li>
