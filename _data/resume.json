@@ -1,5 +1,5 @@
 {
-    "professional-profile": "Senior Software Engineering Manager with over 8 years of professional experience taking on leadership roles such as Technical Program Manager, Engineering Manager, Tech Lead, and Software Architect. I help organizations build high performing Software Engineering Teams through motivation and people development. \n\n14 years of professional experience developing a wide range of projects including object-oriented frameworks, libraries, web services, and applications in .NET, C++, and Javascript. I thrive on exploring computer programming at its core; getting my hands dirty with manual memory management, language theory and mathematical complexities.",
+    "professional-profile": "Senior Software Engineering Manager with over 10 years of professional experience taking on leadership roles such as Technical Program Manager, Engineering Manager, Tech Lead, and Software Architect. I help organizations build high performing Software Engineering Teams through motivation and people development. \n\n16 years of professional experience developing a wide range of projects including object-oriented frameworks, libraries, web services, and applications in .NET, C++, and Javascript. I thrive on exploring computer programming at its core; getting my hands dirty with manual memory management, language theory and mathematical complexities.",
     "experience" : [
         {
             "title" : "Associate Solutions Architect - Access and Identity Management",
@@ -99,7 +99,7 @@
                 "Worked with project management tools, performed code reviews and otherwise support Engineering leadership.",
                 "Facilitated the removal of obstacles in order to keep the team motivated and focused.",
                 "Demonstrated strong quality orientation and got involved in organization process that helped enhance the organization productivity.",
-                "Relevant Expertise: .NET Core; .NET Framework; ASP.NET; Azure DevOps Services; C++ (C++03, C++11, C++14); C++CX; C#; Git; JavaScriptCore; LINQ;  Microsoft's CIL (formerly known as MSIL); Microsoft's Parallel Patterns Library (Concurrency namespace); SQL Server; MongoDB; MVC; Object-Oriented Architecture, Design and Programming; Powershell; REST API; T-SQL; Universal Windows Platform (UWP and UAP); WebAPI; Windows Forms (WinForms); Windows Runtime (WinRT)."
+                "Relevant Expertise: .NET Core; .NET Framework; ASP.NET; Azure DevOps Services; C++ (C++03, C++11, C++14); C++CX; C#; Git; JavaScriptCore; LINQ;  Microsoft's CIL (MSIL); Microsoft's Parallel Patterns Library (Concurrency namespace); SQL Server; MongoDB; MVC; Object-Oriented Architecture, Design and Programming; Powershell; REST API; T-SQL; Universal Windows Platform (UWP and UAP); WebAPI; Windows Forms (WinForms); Windows Runtime (WinRT)."
             ]
         },
         {
@@ -136,7 +136,7 @@
                 "Migrated existing products to be able to run in or as 64-bit processes.",
                 "Facilitated the improvement of external products by debugging, identifying problematic code, and proposing solutions.",
                 "Participated in the definition of IVI Foundation’s VISA.NET Shared Components.",
-                "Relevant Expertise: .NET Framework (1.1 - 4.6), Agile, Assembly, C, C++, C++’s STL, C++/CLI, C# (1.2 - 5.0), concurrency, Microsoft Foundation Classes (MFC versions 7.1 - 10.0), Microsoft’s CLR (1.1 - 4.0), Microsoft’s Intermediate Language (MSIL), Microsoft Visual Studio (internal versions 7.1 - 12.0), multi-threading, object-oriented design, Perforce, product release management, UI usability, VB.NET (7.1 - 11.0), Windows Forms, WPF.",
+                "Relevant Expertise: .NET Framework, Agile, Assembly, C, C++, C++’s STL, C++/CLI, C#, concurrency, Microsoft Foundation Classes (MFC), Microsoft’s CLR, Microsoft’s Intermediate Language, Microsoft Visual Studio, multi-threading, object-oriented design, Perforce, product release management, UI usability, VB.NET, Windows Forms, WPF.",
                 "Products: CVI’s Advanced Analysis Library, DAQmx .NET, GPIB for .NET,  LabVIEW’s TDMS, Measurement Studio, NI-VisaNS .NET, NI-MAX. "
             ]
         }
