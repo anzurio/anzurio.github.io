@@ -20,7 +20,7 @@ Experience
 {% endfor %}
 {% endfor %}
                 
-Education
+Education and Certifications
 {% for education in site.data.resume.education %}
 {{ education.institution }} – {{education.degree }}, {{ education.class }}
 {{ education.location }}
