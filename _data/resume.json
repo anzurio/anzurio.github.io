@@ -1,5 +1,5 @@
 {
-    "professional-profile": "Senior Software Engineering Manager with over 10 years of professional experience taking on leadership roles such as Technical Program Manager, Engineering Manager, Tech Lead, and Software Architect. I help organizations build high performing Software Engineering Teams through motivation and people development. \n\n16 years of professional experience developing a wide range of projects including object-oriented frameworks, libraries, web services, and applications in .NET, C++, and Javascript. I thrive on exploring computer programming at its core; getting my hands dirty with manual memory management, language theory and mathematical complexities.",
+    "professional-profile": "Senior Software Engineering Manager with over 15 years of experience across distributed systems, identity and access management, and client-side development. I’ve worked as an Engineering Manager, Architect, and Tech Lead, building secure and scalable systems in the cloud, while also being comfortable going down to low-level details when needed, with a focus on helping motivate and develop team members to do their best work and keeping execution aligned with business and customer needs.",
     "experience" : [
         {
             "title" : "Associate Solutions Architect - Access and Identity Management",
@@ -8,13 +8,11 @@
             "date" : "2023 - current",
             "items" : [
                 "Implemented the Fraud Risk Assessment strategy for one of the largest payment processors in the world.",
-                "Created PoCs for Android and iOS to integrate Microsoft Authentication and Fraud Protection SDKs to showcase their capabilities to prospective clients.",
-                "Collaborated directly with multiple customers to understand their requirements, designing and mapping out user journeys, and creating customized policy architectures in Azure Active Directory B2C (AAD B2C).",
-                "Provisioned Azure resources to support Intermediate APIs, UI and other assets required for user journeys, ensuring seamless integration with identity solutions.",
-                "Enhanced security and fraud protection meaures by implementing Microsoft's Dynamics Fraud Protection (DFP) and other means of account protection such as Multifactor Authentication (MFA).", 
+                "Partnered directly with customers to understand their requirements, designing and mapping out user journeys, and creating customized policy architectures in Azure Active Directory B2C (Entra B2C).",
+                "Strengthened account security and fraud protection meaures by implementing Microsoft's Dynamics Fraud Protection (DFP) and other means of account protection such as Multifactor Authentication (MFA).", 
+                "Designed and implemented IAM architectures in Azure AD B2C for 10+ custormers with 250K+ end users, including custom policies, social and enterprise federation, and end-to-end user journeys across distributed systems.",
                 "Established and configured automated pipelines and release processes using Azure DevOps, streamlining the deployment of policies, intermediate APIs, and UI assets.",
-                "Drove the implementation of automated Identity Management processes, workflows, and policies to enhance operational efficiency.",
-                "Continuously identified opportunities to enhance architecture and design within Identity and Access Management (IAM) solutions integrating with Social and other types of AAD federation."
+                "Drove the implementation of automated Identity Management processes, workflows, and policies to enhance operational efficiency."
                 
                 ] 
         },
@@ -24,15 +22,12 @@
             "location" : "Remote (Mexico)",
             "date" : "2022",
             "items" : [
-                "Facilitated efficiency, efficacy, and vision improvements while prioritizing motivation through people development.",
-                "Led multidisciplinary negotiations, striking a balance that benefited the business, customers, and employees alike.",
+                "Enabled the team to operate at their best, improving efficiency and effectiveness while keeping a clear direction and aligment amongst the business, customers, and the people doing the work.",
                 "Orchestrated War Rooms to effectively contain incidents, identify root causes, and implement preventive measures, reducing future incidents.",
                 "Successfully led efforts to reduce market open incidents, achieving a notable decrease in both frequency and duration, positively impacting overall business performance.",
-                "Initiated Productivity Polls, achieving an 80% participation rate, to identify opportunities for enhancing team productivity which showed a gradual 12% improvement in productivity.",
+                "Introduced productivity measurement initiatives, achieving an 80% participation rate, to identify opportunities for enhancing team productivity which showed a gradual 12% improvement in productivity.",
                 "Developed a process involving constant iteration and feedback, to address technical debt and allocate time efficiently across different disciplines.",
-                "Designed a Pod organization and responsibility scoping proposal, drawing from best practices in the industry and ensuring smooth adoption.",
-                "Recognized individual strengths within the team and advocated for role changes to align their career paths with their potential, leading to increased value for the firm.",
-                "Conducted 1-on-1s with direct reports producing an Executive Summary of Findings that informed the firm on areas to improve motivation, talent acquisition, and retention strategies."
+                "Designed and rolled out a Pod-team and responsibility scoping proposal, drawing from best practices in the industry and ensuring smooth adoption."
             ] 
         },
         {
@@ -45,13 +40,9 @@
                 "Led the backend design, cloud resources provisioning, and Continuous Delivery of automatic client software publishing, reducing release cycles and improving efficiency.",
                 "Developed innovative API proposals/designs to enhance Multiple Factor Authentication (MFA) for OneLogin Desktop PRO products, bolstering security measures and user authentication.",
                 "Demonstrated changes to the OneLogin Desktop PRO Application, leveraging Windows Credential Provider's COM-interfaces and C++/CLI to provide MFA support on the Windows logon screen, increasing product capabilities.",
-                "Coordinated end-to-end cross-team interactions for two successful releases of OneLogin Desktop for Windows, ensuring seamless product delivery.",
                 "Implemented AWS resource provisioning using Terraform and improved access policy attachments, enforcing the principle of Least Privilege, enhancing security measures.",
-                "Played a key role in defining product requirements and created comprehensive software specification documents, ensuring a clear roadmap for product development.",
                 "Designed a local development environment in node.js for testing Desktop products (Windows and MacOS), streamlining the testing process with web service mocking and hot-reloading.",
                 "Participated in a company-wide hackathon, contributing to the best Security-oriented proof-of-concept that utilized AWS KMS to sign SAML Assertions.",
-                "Collaborated closely with the Security Team to enhance product security and overall supply chain resilience.",
-                "Delivered a Tech Talk on GitHub Packages and the GitHub GraphQL API within two months of joining the company, showcasing expertise and knowledge-sharing.",
                 "Pioneered the adoption of GitHub Packages across the organization, advising teams on leveraging the platform to create their libraries of reusable components, increasing code reusability.",
                 "Successfully migrated CI/CD pipelines from TeamCity to GitHub Actions, resulting in improved automation, faster deployments, and enhanced code integration processes."
             ] 
@@ -62,7 +53,7 @@
             "location" : "Guadalajara, Mexico",
             "date" : "2019 - 2020",
             "items" : [
-                "Set the vision, built, lead, and motivated a widely distributed engineering team.",
+                "Set direction and built a distributed engineering team.",
                 "Effectively set direction by managing change in order to address competing priorities amongst the stakeholders and the engineering team's workload.",
                 "Drove the adoption of the new platform by current and new partners and vendors.",
                 "Refashioned the current monolithic product by architecting and implementing the spinning-off of new features through microservices.",
@@ -70,8 +61,7 @@
                 "Eagerly contributed to the development of the overall technical proficiency of the team by sharing my knowledge in higher-level software concepts (security, design, architecture, algorithms, data structures) as well as in specific technologies (C#, .NET Core, MongoDB, NoSQL, git).",
                 "Participated in the definition of a product roadmap and created a plan of execution.",
                 "Maintained an environment of camaraderie amongst all the team members and asserted they had all the tools to be successful and being kept motivated.",
-                "Recruited and onboarded new team members and helped with all the day-to-day operational issues.",
-                "Demonstrated dedication and responsability in delivering results."
+                "Recruited and onboarded new team members and helped with all the day-to-day operational issues."
             ] 
         },
         {
@@ -80,40 +70,32 @@
             "location" : "Guadalajara, Mexico",
             "date" : "2016 - 2019",
             "items" : [
-                "Designed, maintained, and improved a multi-tenant, multi-app authentication and authorization .NET MVC RESTful dynamic mobile as a service Web API using C#, ASP.NET and MongoDB.",
+                "Designed and evolved a multi-tenant authentication and authorization platform (.NET, MongoDB) supporting mobile and web applications.",
                 "Architected elegant and sophisticated solutions to circumvent limitations of proprietary cross-platform Software Development Frameworks such as UWP and Appcelerator Titanium.",
                 "Assisted in the definition of development plans by suggesting key scope adjustments by analyzing requirements and resources for each cycle.",
+                "Defined career paths, coached engineers, and contributed to hiring and performance evaluation across the organization.",
                 "Designed and implemented cross-technology integrations.",
-                "Provided web services for the company's mobile and web products as well as administering and architected NoSQL (MongoDB) databases for such services which further allowed mobile app developers to define their own schema.",
                 "Swiftly handpicked five candidates to join a new team in order to steer a VB6 to .NET port project back into course exceeding time and quality expectations.",
                 "Defined and promoted the company-wide adoption of .NET coding standards, conventions, idioms, and guidelines for Xamarin cross-platform App, UWP, and other .NET projects.",
                 "Created Windows Runtime Libraries (using both C# and C++) to be consumed by UWP applications.",
                 "Created native JavaScriptCore libraries to be consumed by Titanium cross-platform Javascript mobile applications.",
                 "Suggested and implemented several DevOps strategies to streamline product-related turnaround using GitHub and Azure DevOps Server including but not limited to branch strategy git workflow, project management software integration with source versioning, continuous integration (CI) implementation, and Continuous Delivery (CD) implementation.",
-                "Defined career paths, performance plans and goals for engineers to get promoted and thus, improving their overall job satisfaction.",
                 "Influenced a medium size team to achieve their goals.",
-                "Defined technical profiles, performance metrics, and training standards.",
-                "Coached senior engineers on a wide range topics including: software engineering, computer science, problem solving algorithms, best coding practices, Windows debugging, object oriented design.",
-                "Conducted technical interviews and made hiring decisions.",
-                "Managed the team by ensuring team members get adequate feedback through 1-1s, feedback sessions, et al.",
-                "Worked with project management tools, performed code reviews and otherwise support Engineering leadership.",
-                "Facilitated the removal of obstacles in order to keep the team motivated and focused.",
-                "Demonstrated strong quality orientation and got involved in organization process that helped enhance the organization productivity.",
-                "Relevant Expertise: .NET Core; .NET Framework; ASP.NET; Azure DevOps Services; C++ (C++03, C++11, C++14); C++CX; C#; Git; JavaScriptCore; LINQ;  Microsoft's CIL (MSIL); Microsoft's Parallel Patterns Library (Concurrency namespace); SQL Server; MongoDB; MVC; Object-Oriented Architecture, Design and Programming; Powershell; REST API; T-SQL; Universal Windows Platform (UWP and UAP); WebAPI; Windows Forms (WinForms); Windows Runtime (WinRT)."
+                "Technologies I worked with heavily: C++, C#, .NET Framework/Core, MSIL/CIL, JavaScriptCore, WinRT, UWP/UAP, WinForms, ASP.NET MVC/Web API, MongoDB, SQL Server."
             ]
         },
         {
             "title" : "Engineering Manager",
-            "company" : "Leading Subscription Streaming Service Company",
+            "company" : "Netflix",
             "location" : "Los Gatos, CA",
             "date" : "2015",
             "items" : [
-                "Grew, lead, and motivated a team of server-side engineers building distributed microservices.",
+                "Contributed to backend systems operating at large scale, with a focus on reliability, performance, and evolution of distributed services.",
                 "Re-evaluated software architectural choices on an ongoing basis to be ever better prepared for scale and evolution.",
                 "Collaborated with other managers to create cohesive strategies and roadmaps across organizational boundaries.",
                 "Implemented several strategies in order to solve social challenges from which, I was able to improve the productivity of my team as measured by the reduction of the backlog in half within 6 months.",
-                "Guided three brand-new projects end-to-end: from idea, implementation, testing, all the way to production.",
-                "With the help of senior engineers, I drove the simplification of designs, operations, and deployment plans reducing complexity while providing maintainability and extensibility.",
+                "Led three projects end-to-end from concept to production.",
+                "Simplified system designs and deployment strategies, reducing complexity and improving maintainability.",
                 "Drove the team's strategic direction and lead with a hands-on approach to problem solving i.e., provided context but enabled team member to be their own bosses on their own projects and initiatives."
              ]
         },
@@ -123,20 +105,15 @@
             "location" : "Austin, TX",
             "date" : "2008 - 2015",
             "items" : [
-                "Assisted in the definition of development plans by suggesting key scope adjustments by analyzing requirements and resources for each cycle.",
-                "Assigned tasks to different members of the team according to their individual strengths and weaknesses.",
-                "Coached three newly-hired developers up to pace exceeding timing expectations.",
+                "Mentored and ramped up new engineers, improving team effectiveness and reducing onboarding time.",
                 "Devised and executed a career development plan for my colleagues to grow in their paths while minimizing the teams’ overall gaps in expertise.",
                 "Conducted technical and behavioral interviews and made hiring decisions.",
                 "Was consulted, company-wide, on object oriented framework implementation and design.",
                 "Became the effective expert of all of the products within Measurement Studio by following closely the group’s business strategy and proposing, and often times implementing, improvements and new features.",
-                "Consistently produced high quality solutions on or ahead of schedule.",
                 "Designed, created, implemented, and maintained several .NET and C++ object-oriented frameworks for the National Instruments’ products listed at the end of this section.",
-                "Repeatedly demonstrated willingness and proficiency at acquiring knowledge into unfamiliar technologies on short notice and properly applying the concepts learnt with high level of mastery. This includes (but it is not limited to): 64-bit processes, ASP.NET, CVI, F#, JavaScript, LabVIEW, Virtualization, WiX, WPF, XML.",
                 "Migrated existing products to be able to run in or as 64-bit processes.",
                 "Facilitated the improvement of external products by debugging, identifying problematic code, and proposing solutions.",
                 "Participated in the definition of IVI Foundation’s VISA.NET Shared Components.",
-                "Relevant Expertise: .NET Framework, Agile, Assembly, C, C++, C++’s STL, C++/CLI, C#, concurrency, Microsoft Foundation Classes (MFC), Microsoft’s CLR, Microsoft’s Intermediate Language, Microsoft Visual Studio, multi-threading, object-oriented design, Perforce, product release management, UI usability, VB.NET, Windows Forms, WPF.",
                 "Products: CVI’s Advanced Analysis Library, DAQmx .NET, GPIB for .NET,  LabVIEW’s TDMS, Measurement Studio, NI-VisaNS .NET, NI-MAX. "
             ]
         }
@@ -177,12 +154,8 @@
     ],
     "others" : [
         {
-            "title" : "Other Career-Relevant Skills",
-            "body" : "Algorithm analysis, computer organization and architecture, data structures, database modeling, discrete mathematics, formal language theory, networking fundamentals, operating systems, SQL, statistical analysis, Unified Process, UML." 
-        },
-        {
-            "title" : "Personal Skills",
-            "body" : "Commitment, drive for excellence, leadership, passionate autodidactic person, team player, thirst for knowledge." 
+            "title" : "Foundations",
+            "body" : "Solid grounding in computer science fundamentals (formal languages, discrete math, operating systems), with a consistent track record of self-directed learning across new technologies and domains." 
         }
     ]
     
